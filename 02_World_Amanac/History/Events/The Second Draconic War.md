@@ -1,0 +1,3 @@
+It was a war Between 4 of the 6 Dragon Empires. Which happened 20 years ago(1987-1990)
+This was caused due to Blue, Red and White house of Dragons  Breading Dragons as a tool for war Emerald House resisted it harshly as a result Blue, Red and White houses attacked The Emerald House (Vorth's) threatening the annihilation of entire continent. [[Vorth Empire]] was about to loose but with the collective help of unlikely allies they waited out the war. which was stopped by Gold and Silver Houses.
+at the end the breeding was stopped and the dragons were sent to a remote corner of the world that is now known as [[The Land of Dragons ]]

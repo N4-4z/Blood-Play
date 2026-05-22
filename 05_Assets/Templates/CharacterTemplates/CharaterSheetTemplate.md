@@ -1,146 +1,147 @@
 ---
 tags:
+  - Character
+  - PC
+  - CharacterSheet
 PlayerName:
 PlayerCover:
 ---
 
-![[.jpeg]]
-___ 
+---
 
 # Character Sheet
 
 | Level | Class Level |
-| ----- | ----------- |
-|       |             |
-Class Level = Level/5(whole number)
+| :---: | :---------: |
+|  10   |      2      |
 
-| Attribute Points |     |
+| Attribute Points | 37  |
 | ---------------- | --- |
 
-| Primary Class | Secondary Class |
-| ------------- | --------------- |
-|               |                 |
+**Class Level** = floor(Level / 5)
 
-| Race |     |
-| ---- | --- |
+---
 
-| Origin | Background |
-| ------ | ---------- |
-|        |            |
-___ 
-## Class Focus
+## 🛡️ Core Stats
+*Modifier = floor(Score / 4)*
 
-___
-## Proficiency
-Every class Lvl you can choose to put 1 point in any proficiency
+| Stat             | Score | Modifier |
+| :--------------- | :---: | :------: |
+| **Strength**     |       |          |
+| **Resistance**   |       |          |
+| **Intelligence** |       |          |
+| **Health Score** |       |          |
+| **Mana Score**   |       |          |
+
+### Derived Stats
+| Stat               | Value | Notes                      | temp RN |
+| :----------------- | :---: | :------------------------- | ------- |
+| **Resistance No.** |       | 5 × Resistance             |         |
+| **Total Mana**     |       | Base 100 + (MP Score × 20) |         |
+
+### Health
+*Base HP = 100 + (HP Score × 10)*
+
+| Type                  | Current | Max | Ratio           |
+| :-------------------- | :-----: | :-: | :-------------- |
+| **Ward Health (WHP)** |         |     | Increased by +7 |
+| **Core Health (CHP)** |         |     | Increased by +3 |
+
+---
+
+## 📊 Sub-Stats
+
+| Sub-Stat         | Score | Sub-Stat         | Score |
+| :--------------- | :---: | :--------------- | :---: |
+| **Agility**      |       | **Intimidation** |       |
+| **Aim**          |       | **Perception**   |       |
+| **Coordination** |       | **Reflex**       |       |
+| **Deception**    |       | **Seduction**    |       |
+| **Dexterity**    |       | **Stealth**      |       |
+| **Ingenuity**    |       | **Will**         |       |
+| **Insight**      |       |                  |       |
+
+---
+
+## 👤 Identity
+
+| Category            | Value |
+| :------------------ | :---- |
+| **Race**            |       |
+| **Primary Class**   |       |
+| **Secondary Class** |       |
+| **Deity**           |       |
+| **Origin**          |       |
+| **Background**      |       |
+
+---
+
+## ⚔️ Class & Proficiency
+
+### Class Focus
+
+
+### Proficiency
+*Every 5 Levels (1 Class Level) = 1 Proficiency Point*
 
 | Name | Level |
-| ---- | ----- |
+| :--- | :---: |
 |      |       |
-___
-## Traits
-### Race specific Traits
 
-### Common Race Trait
-___
-## Stats
-### Base Stats
-modifier is S/4=M(where M is a whole Number)
 
-| Stat          | Score | Modifier |
-| ------------- | ----- | -------- |
-| Health Points |       |          |
-| Inteligence   |       |          |
-| Mana Points   |       |          |
-| Resistance    |       |          |
-| Strength      |       |          |
+---
 
-#### Health
-increases by 10 per AP
+## 🧬 Traits
+### Race Traits
 
-| Health | Health Points |
-| ------ | ------------- |
-| Ward   |               |
-| Core   |               |
+### Personal Traits
+* **Physical traits:** 
+* **Personality:** 
+---
 
-Health Ratio
+## 🛠️ Skills and Abilities
 
-| Ward | Core |
-| ---- | ---- |
-|      |      |
-
-#### Mana 
-
-increases by 20 per AP
-
-| Total Mana |     |     |
-| ---------- | --- | --- |
-
-#### Resistance
-
-Resistance No. is 5* *Resistance
-
-| Resistance Number |     |
-| ----------------- | --- |
-
-### Sub-Stats
-
-| Sub-Stat     | Score |
-| ------------ | ----- |
-| Agility      | 0     |
-| Aim          | 0     |
-| Coordination | 0     |
-| Deception    | 0     |
-| Dexterity    | 0     |
-| Ingenuity    | 0     |
-| Insight      | 0     |
-| Intimidation | 0     |
-| Perception   | 0     |
-| Reflex       | 0     |
-| Seduction    | 0     |
-| Stealth      | 0     |
-| Will         | 0     |
-___
-## Skills and Abilities
 ### Skills
-
-Skills can be used once per long rest
-
+*Usable once per long rest*
 1. 
 
 ### Abilities
-
-Ability can be used the same times as class level per day
-
+*Usable Class Level times per day*
 1. 
 
-___
-## Weapon
+---
 
-| Weapon | Effect | Dmg | Range | DMG Type | Calculated Dmg |
-| ------ | ------ | --- | ----- | -------- | -------------- |
-|        |        |     |       |          | `dice: `       |
-|        |        |     |       |          | `dice: `       |
-___
-## Armor
+## 🗡️ Weapons & Equipment
 
-| Armor Resistance Number | Armor Health | Current Armor Health |
-| ----------------------- | ------------ | -------------------- |
-|                         |              |                      |
-___
-## Spells
-
-| Spell LvL | Spell | Time | MP Cost | Effect | Range | Duration | Dmg | Calculated Dmg |
-| --------- | ----- | ---- | ------- | ------ | ----- | -------- | --- | -------------- |
-|           |       |      |         |        |       |          |     | `dice: `       |
+| Weapon | Effect | Dmg Formula | Range | Dmg Type | Actual Dmg |
+| :----- | :----- | :---------- | :---- | :------- | :--------- |
+|        |        |             |       |          |            |
 
 
+### Gear
+
+### Armor
+| Armor Res (ARN) | Armor HP (AHP) | Current AHP |
+| :-------------: | :------------: | :---------: |
 
 
-___
-# Character Backstory
+---
+
+## 📜 Spells
+
+| Lvl | Spell | Time | MP  | Effect | Range | Duration | Dmg Formula | Actual Dmg |
+| :-: | :---- | :--: | :-: | :----- | :---- | :------- | :---------- | :--------- |
+|     |       |      |     |        |       |          |             |            |
+
+
+---
+
+## 📖 Backstory & Description
 ## Glance
-[[]]
+
 ## Depth
-[[]]
+
 ___
+## Iventory
+
+

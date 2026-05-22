@@ -8,6 +8,11 @@ LocationUnder: Rust
 ---
 # Key Features
 
+The new city of bittermarsh is built around a huge Red Water tree (Mangrove Equivalent)
+on the tree is a colosseum that hangs and incorporates the hollowed out tree
+
+leading up to the colosseum are shops of all sorts
+
 
 ---
 
@@ -18,7 +23,9 @@ LocationUnder: Rust
 ---
 
 # History
+Bittermarsh used to be a hobgoblin settlement destroyed during the 
 
+during the 10 year time a revolution came and reestablished Hobgoblins in bittermarsh as they fought for equal rights in rust but were shunned away, [[Green Liberation Front]] was created as a result which developed the new city of bittermarsh 
 
 
 
@@ -40,3 +47,4 @@ LocationUnder: Rust
 ## [[BitterMarsh_Resources]]
 
 ---
+# Bittermarsh

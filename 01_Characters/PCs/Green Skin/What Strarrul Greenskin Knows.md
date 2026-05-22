@@ -79,7 +79,7 @@ Vorth Empire Controls Most of the North Eastern Region of Aridonia travelers fro
 ## SanSerp Desert 
 This Desert is also known as the land of fire, famous for its Serpentine Creatures who swim in sand and make travelers vary.  
 # Continental Neutrality
-Continental Neutrality was achieved as a by product of [[The Second Draconic War]] . It was a war Between 4 of the 6 Dragon Empires. Which happened 10 years ago(1987-1990)
+Continental Neutrality was achieved as a by product of The Second Draconic War . It was a war Between 4 of the 6 Dragon Empires. Which happened 10 years ago(1987-1990)
 Where Blue, Red and White houses attacked The Emerald House (Vorth's) threatening the annihilation of entire continent Vorth Empire was about to loose but with the collective help of unlikely allies they waited out the war. which was stopped by Gold and Silver Houses. 
 # Sprout Kingdom 
 Sprout Kingdom is in North-central archipelago, between the western major island and the eastern continent it is Heavily forested island with limited cleared land. The Kingdom is mostly known for its diverse plant and animal life. And magical properties of said life along with Huge Trees. They have limited trade with mainland Aridonia and are a neutral faction for a most part as long as undisturbed but given the circumstances their advanced magical theory can prove terrifying. This kingdom is mostly inhabited by elves but they do take some stranglers if they wash ashore. These Stranglers have formed some of their own settlements.

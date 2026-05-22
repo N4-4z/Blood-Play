@@ -1,0 +1,2 @@
+Continental Neutrality was achieved as a by product of [[The Second Draconic War]] . It was a war Between 4 of the 6 Dragon Empires. Which happened 10 years ago(1987-1990)
+Where Blue, Red and White houses attacked The Emerald House (Vorth's) threatening the annihilation of entire continent [[Vorth Empire]] was about to loose but with the collective help of unlikely allies they waited out the war. which was stopped by Gold and Silver Houses. 
