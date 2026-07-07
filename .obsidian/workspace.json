@@ -10,37 +10,18 @@
           {
             "id": "ed0519b3168fbbf2",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Characters/PCs/Hunter Moonshine/a. Index of revisions.md",
+                "file": "01_Characters/PCs/Hunter Moonshine/Hunter Moonshine.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "a. Index of revisions"
-            }
-          },
-          {
-            "id": "c5c1db2020dc2dab",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Characters/NPCs/Companions/Hunter's Companion/Storm.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Storm"
+              "title": "Hunter Moonshine"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Characters/NPCs/Companions/Hunter's Companion/Storm.md",
+                "file": "01_Characters/PCs/Hunter Moonshine/Hunter Moonshine.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Storm"
+              "title": "Outline of Hunter Moonshine"
             }
           },
           {
@@ -276,11 +257,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c5c1db2020dc2dab",
+  "active": "ed0519b3168fbbf2",
   "lastOpenFiles": [
-    "01_Characters/PCs/Hunter Moonshine/a. Index of revisions.md",
-    "01_Characters/PCs/Hunter Moonshine/Hunter Moonshine.md",
     "01_Characters/NPCs/Companions/Hunter's Companion/Storm.md",
+    "01_Characters/PCs/Hunter Moonshine/Hunter Moonshine.md",
+    "01_Characters/PCs/Hunter Moonshine/a. Index of revisions.md",
     "_INDEX/Main Party.md",
     "Untitled",
     "01_Characters/PCs/Hunter Moonshine/Hunter Moonshine History.md",
