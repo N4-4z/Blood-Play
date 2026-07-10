@@ -32,7 +32,7 @@ Cover: "[[Greenskin.png]]"
 | **Resistance**   |       |          |
 | **Intelligence** |       |          |
 | **Health Score** |       |          |
-| **Mana Score**   |       |          |
+| **Mana Score**   |  15   |    3     |
 
 
 ### Derived Stats
