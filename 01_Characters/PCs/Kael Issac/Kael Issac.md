@@ -147,6 +147,7 @@ Cover: "[[Issac.png]]"
 |  -  | **Darkness**        | Instant | 20  | Create a field of darkness.                                                                                                                                                                                                                             |       | 5 turns                     |             |            |
 |  -  | **Dark Delirium**   | Action  | 100 | You plunge a creature into a waking nightmare of your design.                                                                                                                                                                                           | 60 ft | 1 Turn(stunning) / 10 turns |             |            |
 |     | Arcane Acceleration | instant | 10  | Arcane Acceleration when i make a weapon attack, i can empower it with arcanic force, the attack will hit with extra 2d12 dmg(slash, piercing, cleave..upto the weapon) if i run up at least 10 feet before attacking then, extra dmg increases to 3d12 |       | instant                     |             |            |
+|     | Partial fiend       | instant | 35  | +8 to any physical stat 8                                                                                                                                                                                                                               |       | 2 actions/ saves            |             |            |
 
 ---
 
